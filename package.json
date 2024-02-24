@@ -6,6 +6,7 @@
   "name": "vg_bot",
   "version": "1.0.0",
   "main": "index.js",
+  "type": "module",
   "devDependencies": {
     "eslint": "^8.57.0"
   },
